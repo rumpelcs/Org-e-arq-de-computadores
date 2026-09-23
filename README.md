@@ -1,2 +1,2 @@
-# dev-unreal
-repositório para projetos e anotações da eletiva de desenvolvimento de jogos com unreal engine
+# Org e arq de computadores
+repositório para a disciplina de organização e arquitetura de computadores
